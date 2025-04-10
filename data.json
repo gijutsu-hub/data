@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "ride_to_delhi",
+    "title": "Easy ride to delhi",
+    "image": "https://wallpaperaccess.com/full/1896134.jpg",
+    "tags": ["offroad", "beginner", "short-ride", "evening", "tandem", "racing", "competitive"],
+    "description": "A simple and elegant dessert made by melting chocolate and adding toppings. Perfect for gifting or snacking, this bark combines rich chocolate with texture and crunch.",
+    "ingredients": [
+      "Riding gears must",
+      "Hyderations ",
+      "documents",
+      "Pinch of sea salt"
+    ],
+    "steps": [
+      "Break the chocolate into small pieces and melt it in a heatproof bowl over a pan of simmering water (double boiler method). Stir occasionally until smooth.",
+      "Line a baking sheet with parchment paper and pour the melted chocolate onto it. Spread it into an even layer using a spatula.",
+      "Sprinkle the chopped almonds and dried cranberries evenly over the chocolate.",
+      "Finish with a pinch of sea salt for balance and extra flavor.",
+      "Allow the chocolate to cool and set completely at room temperature, or place it in the fridge for quicker setting.",
+      "Once hardened, break the bark into rustic pieces and serve or store."
+    ],
+    "content": "Perfect for gifting or snacking, this bark combines rich chocolate with texture and crunch.",
+    "prepTime": "10 mins",
+    "cookTime": "5 mins",
+    "servings": 4,
+    "difficulty": "Beginner",
+    "tips": [
+      "Use flaked sea salt for better visual and flavor impact.",
+      "Chop toppings uniformly to make the bark easier to slice or snap.",
+      "Let the bark cool at room temperature for a glossier finish."
+    ],
+    "nutrition": {
+      "calories": 220,
+      "fat": "15g",
+      "sugar": "10g",
+      "protein": "3g"
+    },
+    "substitutions": {
+      "almonds": ["Pistachios", "Pumpkin seeds"],
+      "dried cranberries": ["Dried cherries", "Goji berries"],
+      "chocolate": ["Ensure it's dairy-free for a vegan version"]
+    },
+    "pairings": {
+      "drink": "Espresso or a glass of red wine",
+      "occasion": "Perfect for holiday gifts or party treats"
+    },
+    "allergens": ["nuts"],
+    "storage": {
+      "method": "Store in airtight container at room temperature",
+      "duration": "Up to 1 week"
+    }
+  }
+]
